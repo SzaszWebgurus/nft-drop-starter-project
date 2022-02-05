@@ -24,3 +24,8 @@ yarn-debug.log*
 yarn-error.log*
 
 .DS_Store
+
+.cache
+address_handy
+assets
+config.json
